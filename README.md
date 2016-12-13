@@ -1,7 +1,7 @@
 # Unicorn_note with Symfony 3.2.*
 
 Hello! This repository holds the code and script
-for the Symfony project name Aqua_note.
+for the Symfony project name Unicorn_note.
 
 ## Setup
 
