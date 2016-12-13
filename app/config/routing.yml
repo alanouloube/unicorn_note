@@ -1,0 +1,14 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+homepage:
+    path: /
+    defaults:
+        _controller: AppBundle:Main:homepage
+
+admin:
+    path: /admin/genus
+
+genus:
+    path: /genus
