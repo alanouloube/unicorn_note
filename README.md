@@ -1,4 +1,4 @@
-# Unicorn_note with Symfony 3.2.*
+# Unicorn_note with Symfony 3.4.*
 
 Hello! This repository holds the code and script
 for the Symfony project name Unicorn_note.
